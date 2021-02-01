@@ -1,0 +1,6 @@
+ex_jframe_notas.MediaBimestral$1
+ex_jframe_notas.MediaBimestral
+ex_jframe_notas.MediaBimestral$4
+ex_jframe_notas.MediaBimestral$5
+ex_jframe_notas.MediaBimestral$2
+ex_jframe_notas.MediaBimestral$3
