@@ -27,7 +27,7 @@ Estudei na Etec entre 2018 e 2020 e lá aprendi e fiz muitas coisas, no meio do 
 
 _Pode estar faltando algumas ferramentas, porém as mais usadas foram listadas_
 
-### Este é 2 de 3 repositórios, cada um representando seu respectivo ano.
+### Este é 3 de 3 repositórios, cada um representando seu respectivo ano.
 
 #### Para acessar os demais
 * [1° Ano](https://github.com/SFV-CORE/ETEC1);
